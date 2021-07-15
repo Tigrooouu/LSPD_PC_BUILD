@@ -1,0 +1,200 @@
+﻿ =============== Code Pénal V.2 | RedSide V6 ===============;0;0;0
+;0;0;0
+★彡彡 Article 1 - Infraction routière ミミ★;0;0;0
+Stationnement gênant (Contravention);1500;0;0
+Téléphone au volant (Contravention);1500;0;0
+Entrave à la circulation (Contravention);1500;0;0
+Excès de vitesse compris entre 20 et 40km/h (Contravention);2500;0;0
+Excès de vitesse compris entre 40 et 100km/h = retrait du permis (Contravention);3500;0;0
+===Infraction routière 2ème catégorie===;0;0;0
+Refus de céder la priorité (Contravention);2000;0;0
+Conduire sur la bande d'arrêt d'urgence (Contravention);2000;0;0
+Abscence de certificat d'immatriculation (Contravention);2000;0;0
+Franchissement de ligne continue (Contravention);2000;0;0
+===Infraction routière 3ème catégorie===;0;0;0
+Abscence d'arrêt au feu rouge ou à un stop (Contravention);1500;0;0
+Conduite en sens interdit (Contravention);2500;0;0
+Dépassement dangereux (Contravention);2000;0;0
+Conduite sous l'emprise de stupéfiants (Délit mineur);4000;0;0
+Conduite en état d'ivresse (Délit mineur);4000;0;0
+Conduite sans permis de conduire (Délit mineur);3500;15;0
+Conduite dangereuse (Contravention);2500;0;0
+;0;0;0
+★彡彡 Article 2 - Armes et stupéfiants ミミ★;0;0;0
+Possesion de stupéfiants (Délit mineur);100;10;1
+Possesion de stupéfiants aggravé (Délit mineur);125;15;1
+Trafic de stupéfiant (Délit majeur);7000;25;0
+Trafic de stupéfiant aggravé (Délit majeur);15000;30;0
+Complicité de trafic de stupéfiants (Délit mineur);10000;25;0
+Production/récolte de stupéfiants (Délit majeur);15000;30;0
+Complicité de production de stupéfiants (Délit mineur);25000;20;0
+---------Argent----------;0;0;0
+Falsification de billet (Délit majeur);45;20;1
+Possession d'argent sale (Délit majeur);0;15;0
+Possession d'argent sale aggravé (Délit majeur);0;20;0
+Possession d'argent non déclaré (Délit mineur);0;15;1
+Possession d'argent non déclaré aggravé(Délit majeur);0;20;1
+Blanchiment (Délit majeur);15;25;1
+--------Armement/Equipement---------;0;0;0
+Port du gilet pare balle (Délit mineur);4500;10;0
+Possession de gilet pare balle (Délit mineur);1000;10;1
+Exhibition d'arme de catégorie (Délit mineur) A;2000;10;0
+Exhibition d'arme de catégorie B (Délit mineur);15000;15;0
+Exhibition d'arme de catégorie C (Délit majeur);17500;20;0
+Exhibition d'arme de catégorie D (Crime);35000;25;0
+Exhibition d'arme de catégorie E (Crime);45000;30;0
+Possesion illégale d'arme de catégorie B,C (Délit majeur);15000;15;1
+Possession illégale d'arme de catégorie D,E (Crime);25000;20;1
+Trafic d'arme de catégorie B,C (Crime);80000;20;0
+Trafic d'arme de catégorie D,E (Crime);100000;45;0
+Complicité de trafic d'arme (Délit majeur);50000;45;0
+;0;0;0
+★彡彡 Article 3 - Atteinte à la personne ミミ★;0;0;0
+------Violence physique----------;0;0;0
+Violence physique légères (Contravention);2500;0;0
+Violence physique aggravé (Délit mineur);3500;15;0
+Mutilation (Délit mineur);7000;20;0
+Prise d'otage (Délit majeur);10000;15;1
+Complicité de prise d'otage (Délit mineur);8000;10;0
+Séquestration (Délit majeur);12500;15;1
+Séquestration aggravée (Délit majeur);15000;20;0
+Kidnapping (Délit majeur);15000;20;1
+Kidnapping aggravée (Délit majeur);17500;30;1
+------Violence physique sur agent de l'état----------;0;0;0
+Violence physique légères sur agent de l'état (Délit mineur);7500;30;0
+Violence physique aggravée sur agent de l'état (Délit majeur);12500;45;0
+Prise d'otage sur agent de l'état (Crime);25000;20;1
+Complicité de prise d'otage sur agent de l'état (Délit majeur);20000;15;0
+Séquestration sur agent de l'état (Crime);30000;20;1
+Séquestration aggravée sur agent de l'état (Crime);35000;30;0
+Kidnapping sur agent de l'état (Crime);30000;20;1
+Kidnapping aggravé sur agent de l'état (Crime);35000;30;1
+------Violence Sexuelle----------;0;0;0
+Aggression sexuelle;50000;10080;0
+=========Atteinte à l'esprit==========;0;0;0
+----Injure et Diffamation----;0;0;0
+Injure (Contravention);1000;0;0
+Injure aggravée (Contravention);2000;10;0
+Outrage à agent (Contravention);5000;20;1
+Outrage à agent aggravée (Délit majeur);6500;25;1
+Diffamation;4000;0;0
+Diffamation aggravée (Délit majeur);6500;20;0
+----Harcèlement----;0;0;0
+Harcèlement (Délit mineur);7500;10;0
+Harcèlement aggravé (Délit majeur);10000;15;0
+----Menace----;0;0;0
+Menace (Délit mineur);10000;10;1
+Menace aggravée (Délit mineur);15000;20;1
+=========Atteinte à la vie privée==========;0;0;0
+----Espionnage----;0;0;0
+Espionnage au premier degré (Délit mineurà;10000;20;0
+Espionnage au deuxième degré; (Délit mineur)17000;30;0
+Espionnage au troisième degré (Délit majeur);32500;50;0
+=========Atteinte à la vie==========;0;0;0
+----Atteinte à la personne----;0;0;0
+Mise en danger de la vie d'autruie (Délit mineur);3500;10;0
+Incitation au sucide (Délit mineur);10000;15;0
+Non assistance à personne en danger (Délit mineur);5000;10;0
+Tentative de meurtre (Délit majeur);25000;20;0
+Meurtre (Crime);35000;30;0
+Tentative d'assassinat (Délit majeur);25000;20;0
+Assassinat (Crime);35000;30;0
+----Atteinte à la personne sur employé de l'état----;0;0;0
+Tentative de meurtre sur agent de l'état (Crime);40000;30;0
+Meurtre sur agent de l'état (Crime);80000;45;1
+Tentative d'assassinat sur agent de l'état (Crime) ;40000;30;1
+Assassinat sur agent de l'état (Crime);80000;45;1
+----Atteinte à la personne involontaire----;0;0;0
+Homicide involontaire (Crime);30000;20;1
+Homicide involontaire aggravé (Crime);40000;30;1
+;0;0;0
+★彡彡 Article 4 - Atteinte au bien ミミ★;0;0;0
+=====Appacarement de biens======;0;0;0
+Vol au premier degrès (Délit mineur);3000;15;0
+Complicité de vol au premier degrès (Delit mineur);1500;10;0
+Vol au deuxième dergès (Délit mineur);4500;15;0
+Complicité de vol au deuxième degrès (Délit mineur);2500;10;0
+Vol au troisième de degrès (Délit majeur);5500;20;0
+Complicité de vol au troisième degrès (Délit majeur);3500;15;0
+Braquage de supérette (Délit mineur);6000;10;0
+Braquage de supérette au second degrés (Délit mineur);8000;15;0
+Braquage de banque (Délit majeur);12000;15;0
+Braquage de banque au second degrés (Délit majeur);16000;20;0
+Braquage de civil (Délit mineur);5000;10;0
+Braquage de civil au second degrés (Délit mineur);8000;20;0
+;0;0;0
+Chantage (Délit mineur);22500;10;0
+Extorsion(Délit majeur);20000;15;0
+;0;0;0
+Abus de confiance (Delit mineur);10500;10;0
+Escroquerie (Délit mineur);25000;15;0
+;0;0;0
+Recel (Délit mineur);10000;15;1
+=====Altération de biens======;0;0;0
+Dégradation de bien public (Contravention);2000;0;0
+Dégradation de bien public aggravée (Contravention);3500;0;0
+;0;0;0
+Destruction de bien public (Contravention);2000;0;0
+Destrcution aggravée (Délit majeur);3500;0;0
+;0;0;0
+Intrusion (Délit majeur);6500;20;0
+Intrusion aggravée (Délit majeur);7500;30;0
+;0;0;0
+★彡彡 Article 5 - Atteinte à l'ordre social ミミ★;0;0;0
+=====Atteinte à l'autorité======;0;0;0
+;0;0;0
+Entrave aux secours (Contravention);2500;0;0
+Entrave au secours aggravé (Délit mineur);4000;10;0
+Délit de fuite (Délit mineur);3500;10;0
+;0;0;0
+Altération de preuve (Délit majeur);4500;10;0
+Rétention d'informations(Délit mineur);3500;10;0
+Rétention d'informations aggravés(Délit majeur);5000;15;0
+Entrave à la justice (Délit mineur);5000;10;0
+Entrave à la justice aggravé (Délit majeur);8000;15;0
+Évasion (Délit mjeur);25000;15;0
+Évasion aggravée (Crime);35000;25;0
+;0;0;0
+Atteinte aux symboles nationaux (Délit mineur);6000;30;0
+Attroupement illégale (Contravention);2000;0;0
+Incitation à l'émeute (Délit mineur);3500;15;0
+Emeute (Délit mineur);6500;20;0
+Refus d'identification (Contravention);5000;5;0
+Fausse Alerte (Contravention);3500;0;0
+Embuscade (Délit majeur);15000;20;0
+Dissimulation de visage (Contravention);2500;0;0
+Piraterie (Délit majeur);20000;20;0
+Brigandage (Délit majeur);25000;25;0
+Brigandage infâmant (Délit majeur);45000;30;0
+Appartenir ou être lié à une organisation criminelle (Crime);10000;15;0
+Défaut de paiement (Contravention);2;0;1
+;0;0;0
+Refus d'optempérer (Délit mineur);4000;10;0
+Falsification de document (Délit mineur);4500;10;0
+Faux à une administration (Délit majeur);5000;15;0
+Usurpation d'identité (Délit mineur);5000;10;0
+Usurpation d'identité d'un employé de l'état (Délit majeur);10000;25;0
+Corruption (Délit mineur);15000;25;0
+Abus de pouvoir (Délit mineur) ;20000;15;0
+Abus de pouvoir aggravée (Délit majeur);25000;25;0
+;0;0;0
+Sédition (Délit mineur);30000;20;0
+Séparatisme (Délit mineur);30000;20;0
+Tentative de coup d'état (Crime);100000;0;0
+Terrorisme (Crime);120000;0;0
+=====Atteinte à la société======;0;0;0
+;0;0;0
+Mendicité (Délit mineur);2000;10;0
+Vagabondage (Délit mineur);2000;10;0
+Grabuge;2000 (Délit mineur);10;0
+Filoutrie;2000 (Délit mineur);10;0
+Crapûlerie;2000 (Délit mineur);10;0
+Braconnage (Délit mineur);2000;10;0
+Course illégale (Délit mineur);3500;15;0
+;0;0;0
+Proxenetisme;3500 (Délit majeur);10;0
+Proxenetisme aggravé (Délit majeur);5500;15;0
+Corruption des moeurs (Délit mineur);7500;20;0
+Ivresse sur la voie publique (Délit mineur);5000;10;0
+Atteinte à la pudeur (Contravention);5000;0;0
+Racolage aggressif (Délit mineur);6500;25;0
