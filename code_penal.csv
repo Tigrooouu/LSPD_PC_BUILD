@@ -77,6 +77,8 @@ Injure (Contravention);1000;0;0
 Injure aggravée (Contravention);2000;10;0
 Outrage à agent (Contravention);5000;20;1
 Outrage à agent aggravée (Délit majeur);6500;25;1
+Outrage à la cour (Délit mineur);12000;20;1
+Outrage à magistrat (Délit majeur);10000;25;1
 Diffamation;4000;0;0
 Diffamation aggravée (Délit majeur);6500;20;0
 ----Harcèlement----;0;0;0
@@ -101,6 +103,11 @@ Tentative d'assassinat (Délit majeur);25000;20;0
 Assassinat (Crime);35000;30;0
 ----Atteinte à la personne sur employé de l'état----;0;0;0
 Tentative de meurtre sur agent de l'état (Crime);40000;30;0
+Tentative de meurtre sur magistra (Crime);150000;0;0
+Meurtre sur magistra (Crime);200000;0;0
+Tentative d'assassinat sur Magistrat (Crime);200000;0;0
+Assassinat sur Magistrat (Crime);400000;0;0
+Atteinte physique sur Magistrat (Délit mineur);20000;60;0
 Meurtre sur agent de l'état (Crime);80000;45;1
 Tentative d'assassinat sur agent de l'état (Crime) ;40000;30;1
 Assassinat sur agent de l'état (Crime);80000;45;1
@@ -151,6 +158,7 @@ Altération de preuve (Délit majeur);4500;10;0
 Rétention d'informations(Délit mineur);3500;10;0
 Rétention d'informations aggravés(Délit majeur);5000;15;0
 Entrave à la justice (Délit mineur);5000;10;0
+Trouble à l'orde publique (Délit mineur);45000;20;0
 Entrave à la justice aggravé (Délit majeur);8000;15;0
 Évasion (Délit mjeur);25000;15;0
 Évasion aggravée (Crime);35000;25;0
@@ -166,10 +174,11 @@ Dissimulation de visage (Contravention);2500;0;0
 Piraterie (Délit majeur);20000;20;0
 Brigandage (Délit majeur);25000;25;0
 Brigandage infâmant (Délit majeur);45000;30;0
-Appartenir ou être lié à une organisation criminelle (Crime);10000;15;0
+Appartenir ou être lié à une organisation criminelle (Crime);45000;25;0
+Association de malfaiteurs (Délit majeur);10000;15;0
 Défaut de paiement (Contravention);2;0;1
 ;0;0;0
-Refus d'optempérer (Délit mineur);4000;10;0
+Refus d'optempérer (Délit mineur);5000;15;0
 Falsification de document (Délit mineur);4500;10;0
 Faux à une administration (Délit majeur);5000;15;0
 Usurpation d'identité (Délit mineur);5000;10;0
@@ -178,9 +187,10 @@ Corruption (Délit mineur);15000;25;0
 Abus de pouvoir (Délit mineur) ;20000;15;0
 Abus de pouvoir aggravée (Délit majeur);25000;25;0
 ;0;0;0
-Sédition (Délit mineur);30000;20;0
-Séparatisme (Délit mineur);30000;20;0
+Sédition (Crime);30000;20;0
+Séparatisme (Crime);30000;20;0
 Tentative de coup d'état (Crime);100000;0;0
+Fraude Fiscale (Crime);0;0;0
 Terrorisme (Crime);120000;0;0
 =====Atteinte à la société======;0;0;0
 ;0;0;0
