@@ -7,6 +7,7 @@ Entrave à la circulation (Contravention);1500;0;0
 Non port du casque(Contravention);1500;0;0
 Excès de vitesse compris entre 20 et 40km/h (Contravention);2500;0;0
 Excès de vitesse compris entre 40 et 100km/h = retrait du permis (Contravention);3500;0;0
+Excès de vitesse superieur à 100KM/H = retrait du permis (Délit Mineur);6000;0;0
 ===Infraction routière 2ème catégorie===;0;0;0
 Refus de céder la priorité (Contravention);2000;0;0
 Conduite sur la bande d'arrêt d'urgence (Contravention);2000;0;0
@@ -40,6 +41,7 @@ Blanchiment (Délit majeur)somme+15%;0;25;1
 --------Armement/Equipement---------;0;0;0
 Port du gilet pare balle (Délit mineur);9500;30;0
 Possession de gilet pare balle (Délit mineur);1000;15;1
+Possession de d’objets illégaux cagoules, serflex (Délit Mineur);8000;25;0
 Exhibition d'arme factice (Contravention);2000;0;0
 Exhibition d'arme de catégorie A (Délit mineur);2000;10;0
 Exhibition d'arme de catégorie B (Délit mineur);15000;25;0
@@ -57,7 +59,7 @@ Violence physique légères (Contravention);2500;0;0
 Violence physique aggravé (Délit mineur);3500;15;0
 Mutilation (Délit mineur);7000;20;0
 Prise d'otage (Délit majeur);25000;30;1
-Complicité de prise d'otage (Délit mineur);12000;10;0
+Complicité de prise d'otage (Délit majeur);12000;10;0
 Séquestration (Délit majeur);12500;20;1
 Séquestration aggravée (Crime);500000;14400;0
 Kidnapping (Délit majeur);50000;75;1
@@ -99,13 +101,19 @@ Espionnage au troisième degré (Délit majeur);32500;50;0
 Mise en danger de la vie d'autruie (Délit mineur);3500;10;0
 Incitation au sucide (Délit majeur);45000;45;0
 Non assistance à personne en danger (Délit mineur);10000;15;0
+Complicité de Tentative de Meurtre (Délit Majeur);20000;20;0
 Tentative de meurtre (Délit majeur);25000;20;0
-Meurtre (CRIME++);130000;7200;0
+Meurtre (CRIME++);200000;7200;0
+Complicité de Meutre (CRIME++);180000;7100;0
+Complicité Tentative d'assassinant (Délit Majeur);180000;4250;0
 Tentative d'assassinat (Délit majeur);200000;4320;0
+Complicité d’assassinat (CRIME++);480000;0;0
 Assassinat (CRIME++);500000;0;0
 ----Atteinte à la personne sur employé de l'état----;0;0;0
 Tentative de meurtre sur agent de l'état (Crime);60000;50;0
-Meurtre sur agent de l'état (CRIME++);150000;7200;1
+Complicité de Meurtre sur Agent de l'état (CRIME++);180000;7200;1
+Meurtre sur agent de l'état (CRIME++);200000;7200;1
+Complicité de tentative d'assassinat sur Agent de l'état (Crime);240000;4300;1
 Tentative d'assassinat sur agent de l'état (Crime) ;250000;4320;1
 Assassinat sur agent de l'état (CRIME++);750000;0;1
 ----Atteinte à la personne involontaire----;0;0;0
@@ -114,9 +122,13 @@ Homicide involontaire aggravé (Crime);120000;4320;1
 ----Atteinte à la personne sur magistrat----;0;0;0
 Atteinte physique sur Magistrat (Délit mineur);20000;60;0
 Atteinte physique aggravé sur Magistrat (Délit mineur);45000;120;0
+Complicité de tentative de Meurtre sur Magistrat (Crime);120000;7200;0
 Tentative de meurtre sur magistrat (Crime);120000;7200;0
+Complicité de Meurtre sur Magistrat (CRIME++);300000;0;0
 Meurtre sur magistrat (CRIME++);300000;0;0
 Tentative d'assassinat sur Magistrat (Crime);750000;0;0
+Complicité de tentative d'assassinat sur Magistrat (Crime);700000;0;0
+Complicité d'assasinat sur Magistrat (CRIME++);1000000;0;0
 Assassinat sur Magistrat (CRIME++);1000000;0;0
 ★彡彡 Article 4 - Atteinte au bien ミミ★;0;0;0
 =====Appacarement de biens======;0;0;0
@@ -182,8 +194,8 @@ Brigandage (Délit majeur);25000;25;0
 Brigandage infâmant (Délit majeur);45000;30;0
 Appartenir ou être lié à une organisation criminelle (Crime);45000;0;0
 Association de malfaiteurs (Délit majeur);17500;15;0
-Défaut de paiement (Refus de payer l'amende) (Contravention);0,1;0;1
-Refus de se soumettre à une injonction;50000;45;0
+Défaut de paiement (Refus de payer l'amende) (Délit Mineur);25000,1;0;1
+Refus de se soumettre à une injonction (Délit Majeur);50000;45;0
 ;0;0;0
 Refus d'obtempérer (Délit mineur);10000;20;0
 Refus d'obtempérer aggravé (Délit mineur);30000;40;0
